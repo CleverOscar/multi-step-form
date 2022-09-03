@@ -1,0 +1,53 @@
+.CancelForm {
+    background-color: white;
+    width: 40%;
+    margin-right:auto;
+    margin-left: auto;
+    display: flex;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px;
+    margin-top: 100px;
+}
+
+.offerDescription {
+    padding-left:20px;
+}
+
+.boldFont {
+    font-weight: bold;
+}
+
+.before {
+    font-size: large;
+}
+
+.help {
+    font-size: x-large;
+}
+
+.offers {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.acceptOffer {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.cancelSub {
+    color: blue;
+    background: none;
+    border: none;
+    padding: 15px;
+    font-weight: bold;
+}
